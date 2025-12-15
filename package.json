@@ -1,0 +1,37 @@
+{
+  "name": "patterns",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "creational:builder": "bun run src/creational/builder/index.ts",
+    "creational:factory": "bun run src/creational/factory/index.ts",
+    "creational:prototype": "bun run src/creational/prototype/index.ts",
+    "creational:singleton": "bun run src/creational/singleton/index.ts",
+    "creational:abstract-factory": "bun run src/creational/abstract-factory/index.ts",
+    "structural:adapter": "bun run src/structural/adapter/index.ts",
+    "structural:bridge": "bun run src/structural/bridge/index.ts",
+    "structural:composite": "bun run src/structural/composite/index.ts",
+    "structural:decorator": "bun run src/structural/decorator/index.ts",
+    "structural:facade": "bun run src/structural/facade/index.ts",
+    "structural:flyweight": "bun run src/structural/flyweight/index.ts",
+    "structural:proxy": "bun run src/structural/proxy/index.ts",
+    "behavioral:chain-of-responsibility": "bun run src/behavioral/chain-of-responsibility/index.ts",
+    "behavioral:command": "bun run src/behavioral/command/index.ts",
+    "behavioral:interpreter": "bun run src/behavioral/interpreter/index.ts",
+    "behavioral:iterator": "bun run src/behavioral/iterator/index.ts",
+    "behavioral:mediator": "bun run src/behavioral/mediator/index.ts",
+    "behavioral:memento": "bun run src/behavioral/memento/index.ts",
+    "behavioral:observer": "bun run src/behavioral/observer/index.ts",
+    "behavioral:state": "bun run src/behavioral/state/index.ts",
+    "behavioral:strategy": "bun run src/behavioral/strategy/index.ts",
+    "behavioral:template-method": "bun run src/behavioral/template-method/index.ts",
+    "behavioral:visitor": "bun run src/behavioral/visitor/index.ts"
+  }
+}
