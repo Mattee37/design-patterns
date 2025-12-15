@@ -88,6 +88,6 @@ basic.setNext(technical).setNext(billing);
 ## Run
 
 ```bash
-bun run src/behavioral/chain-of-responsibility/index.ts
+bun run behavioral:chain-of-responsibility
 ```
 

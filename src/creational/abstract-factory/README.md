@@ -68,6 +68,6 @@ We implement a UI component factory with two themes (Dark and Light):
 ## Run
 
 ```bash
-bun run src/creational/abstract-factory/index.ts
+bun run creational:abstract-factory
 ```
 

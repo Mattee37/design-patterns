@@ -99,6 +99,6 @@ flowchart TB
 ## Run
 
 ```bash
-bun run src/behavioral/mediator/index.ts
+bun run behavioral:mediator
 ```
 

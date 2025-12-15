@@ -60,6 +60,6 @@ flowchart LR
 ## Run
 
 ```bash
-bun run src/creational/prototype/index.ts
+bun run creational:prototype
 ```
 

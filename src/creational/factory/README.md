@@ -69,6 +69,6 @@ We implement a vehicle factory that creates different types of vehicles:
 ## Run
 
 ```bash
-bun run src/creational/factory/index.ts
+bun run creational:factory
 ```
 

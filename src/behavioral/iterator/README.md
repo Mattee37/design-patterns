@@ -95,6 +95,6 @@ In TypeScript/JavaScript, you can also implement the built-in `Iterable` protoco
 ## Run
 
 ```bash
-bun run src/behavioral/iterator/index.ts
+bun run behavioral:iterator
 ```
 

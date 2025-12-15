@@ -90,6 +90,6 @@ sequenceDiagram
 ## Run
 
 ```bash
-bun run src/behavioral/command/index.ts
+bun run behavioral:command
 ```
 

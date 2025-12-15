@@ -93,6 +93,6 @@ Without the facade, the client would need to call 6 methods on 4 different objec
 ## Run
 
 ```bash
-bun run src/structural/facade/index.ts
+bun run structural:facade
 ```
 

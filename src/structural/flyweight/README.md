@@ -85,6 +85,6 @@ flowchart TB
 ## Run
 
 ```bash
-bun run src/structural/flyweight/index.ts
+bun run structural:flyweight
 ```
 

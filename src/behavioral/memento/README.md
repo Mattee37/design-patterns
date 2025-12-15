@@ -99,6 +99,6 @@ sequenceDiagram
 ## Run
 
 ```bash
-bun run src/behavioral/memento/index.ts
+bun run behavioral:memento
 ```
 

@@ -68,6 +68,6 @@ sequenceDiagram
 ## Run
 
 ```bash
-bun run src/structural/adapter/index.ts
+bun run structural:adapter
 ```
 

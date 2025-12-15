@@ -109,6 +109,6 @@ play() {
 ## Run
 
 ```bash
-bun run src/behavioral/state/index.ts
+bun run behavioral:state
 ```
 

@@ -99,6 +99,6 @@ abstract class ReportGenerator {
 ## Run
 
 ```bash
-bun run src/behavioral/template-method/index.ts
+bun run behavioral:template-method
 ```
 

@@ -93,6 +93,6 @@ flowchart TB
 ## Run
 
 ```bash
-bun run src/structural/bridge/index.ts
+bun run structural:bridge
 ```
 

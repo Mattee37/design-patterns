@@ -88,6 +88,6 @@ sequenceDiagram
 ## Run
 
 ```bash
-bun run src/structural/proxy/index.ts
+bun run structural:proxy
 ```
 

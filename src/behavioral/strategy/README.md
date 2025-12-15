@@ -96,6 +96,6 @@ sequenceDiagram
 ## Run
 
 ```bash
-bun run src/behavioral/strategy/index.ts
+bun run behavioral:strategy
 ```
 

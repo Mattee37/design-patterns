@@ -65,6 +65,6 @@ const pizza = new PizzaBuilder()
 ## Run
 
 ```bash
-bun run src/creational/builder/index.ts
+bun run creational:builder
 ```
 

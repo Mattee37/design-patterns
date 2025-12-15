@@ -92,6 +92,6 @@ sequenceDiagram
 ## Run
 
 ```bash
-bun run src/behavioral/observer/index.ts
+bun run behavioral:observer
 ```
 

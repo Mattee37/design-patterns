@@ -155,6 +155,6 @@ const result = expr.interpret({ variables: new Map([["x", 10], ["y", 5]]) });
 ## Run
 
 ```bash
-bun run src/behavioral/interpreter/index.ts
+bun run behavioral:interpreter
 ```
 

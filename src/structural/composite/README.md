@@ -81,6 +81,6 @@ Both `File` and `Folder` implement `getSize()`:
 ## Run
 
 ```bash
-bun run src/structural/composite/index.ts
+bun run structural:composite
 ```
 

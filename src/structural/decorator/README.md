@@ -87,6 +87,6 @@ coffee = new WhippedCreamDecorator(coffee); // $3.50
 ## Run
 
 ```bash
-bun run src/structural/decorator/index.ts
+bun run structural:decorator
 ```
 

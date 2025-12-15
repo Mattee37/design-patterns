@@ -78,6 +78,6 @@ Consider dependency injection as an alternative.
 ## Run
 
 ```bash
-bun run src/creational/singleton/index.ts
+bun run creational:singleton
 ```
 

@@ -111,6 +111,6 @@ flowchart LR
 ## Run
 
 ```bash
-bun run src/behavioral/visitor/index.ts
+bun run behavioral:visitor
 ```
 
